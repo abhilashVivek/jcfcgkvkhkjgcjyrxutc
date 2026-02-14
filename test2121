@@ -1,0 +1,4 @@
+de: Stream Azure monitoring data to Event Hub and external partners using Azure Monitor. This covers sending Azure logs to Azure Event Hubs, which can then be consumed by any SIEM.
+• IBM guide: IBM QRadar Azure integration. This covers the QRadar side datasource configuration and ingestion.
+
+Plan:
